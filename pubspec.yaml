@@ -1,7 +1,8 @@
 name: wee_drop_down
 description: "Custom drop down widget"
 version: 0.0.1
-homepage:
+homepage: https://github.com/arunkumardixit/wee_drop_down
+author: Arun Dixit(arunkumardixit@gmail.com)
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
